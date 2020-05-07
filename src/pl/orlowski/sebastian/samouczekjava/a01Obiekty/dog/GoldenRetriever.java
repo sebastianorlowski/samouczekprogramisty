@@ -1,4 +1,4 @@
-package pl.orlowski.sebastian.samouczekjava.obiekty.dog;
+package pl.orlowski.sebastian.samouczekjava.a01Obiekty.dog;
 
 public class GoldenRetriever extends Bulldog {
     String name;

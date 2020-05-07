@@ -1,4 +1,4 @@
-package pl.orlowski.sebastian.samouczekjava.obiekty.fish;
+package pl.orlowski.sebastian.samouczekjava.a01Obiekty.fish;
 
 public class Dolphin {
     int age;
