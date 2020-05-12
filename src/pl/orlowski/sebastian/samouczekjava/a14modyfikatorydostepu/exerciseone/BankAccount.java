@@ -3,6 +3,9 @@ package pl.orlowski.sebastian.samouczekjava.a14modyfikatorydostepu.exerciseone;
 public class BankAccount implements Account {
     protected int balance;
 
+    public BankAccount() {}
+
+
     public BankAccount(int balance) {
         this.balance = balance;
     }
