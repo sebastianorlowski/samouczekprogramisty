@@ -1,7 +1,5 @@
 package pl.orlowski.sebastian.samouczekjava.a15testyjednostkowe.exercise;
 
-import java.util.Objects;
-
 public class Item {
     private String name;
     private double price;
