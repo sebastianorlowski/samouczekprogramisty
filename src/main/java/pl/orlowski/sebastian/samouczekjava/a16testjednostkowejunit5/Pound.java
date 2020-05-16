@@ -1,4 +1,4 @@
-package pl.orlowski.sebastian.samouczekjava.a16testjednostkowejunit5.junit5example;
+package pl.orlowski.sebastian.samouczekjava.a16testjednostkowejunit5;
 
 import java.math.BigDecimal;
 
