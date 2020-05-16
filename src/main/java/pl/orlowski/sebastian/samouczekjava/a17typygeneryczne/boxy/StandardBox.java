@@ -1,4 +1,4 @@
-package pl.orlowski.sebastian.samouczekjava.a17typygeneryczne.example.boxy;
+package pl.orlowski.sebastian.samouczekjava.a17typygeneryczne.boxy;
 
 public class StandardBox<T> {
     public T object;

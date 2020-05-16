@@ -1,4 +1,4 @@
-package pl.orlowski.sebastian.samouczekjava.a17typygeneryczne.example.figures;
+package pl.orlowski.sebastian.samouczekjava.a17typygeneryczne.figures;
 
 public class BoxOfFigures<T extends Figure> {
     private T element;

@@ -1,4 +1,4 @@
-package pl.orlowski.sebastian.samouczekjava.a17typygeneryczne.example;
+package pl.orlowski.sebastian.samouczekjava.a17typygeneryczne.boxy;
 
 public class Pair<T, S> {
     private T first;

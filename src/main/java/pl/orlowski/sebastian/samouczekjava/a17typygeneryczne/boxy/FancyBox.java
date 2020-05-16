@@ -1,8 +1,4 @@
-package pl.orlowski.sebastian.samouczekjava.a17typygeneryczne.example.boxy;
-
-import pl.orlowski.sebastian.samouczekjava.a17typygeneryczne.example.Apple;
-import pl.orlowski.sebastian.samouczekjava.a17typygeneryczne.example.Pair;
-import pl.orlowski.sebastian.samouczekjava.a17typygeneryczne.example.Strawberry;
+package pl.orlowski.sebastian.samouczekjava.a17typygeneryczne.boxy;
 
 public class FancyBox<T> extends StandardBox<T> {
 
